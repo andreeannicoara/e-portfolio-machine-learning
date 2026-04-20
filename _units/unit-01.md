@@ -16,6 +16,14 @@ Going forward, I want to build on this foundation by keeping a consistent weekly
 
 
 ## Artefacts
+
+### Collaborative Discussion Units 1-3
+Click <a href="https://www.my-course.co.uk/mod/forum/view.php?id=1304716" target="_blank">here</a> to view discussion.
+<iframe src="{{ site.baseurl }}/files/unit-01/Collaborative_Discussion_1.pdf"
+        width="100%" height="800"
+        style="border:1px solid #ddd;"></iframe>
+
+
 ### Summary
 <iframe src="{{ site.baseurl }}/files/unit-01/Unit_1_Summary.pdf"
         width="100%" height="800"

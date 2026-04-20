@@ -16,6 +16,12 @@ Going forward, I want to pay more attention to optimization settings, convergenc
 
 ## Artefacts
 
+### Collaborative Discussion Units 8-10
+Click <a href="https://www.my-course.co.uk/mod/forum/view.php?id=1304766" target="_blank">here</a> to view discussion.
+<iframe src="{{ site.baseurl }}/files/unit-08/Collaborative_Discussion _2.pdf"
+        width="100%" height="800"
+        style="border:1px solid #ddd;"></iframe>
+
 ### Summary
 <iframe src="{{ site.baseurl }}/files/unit-08/Unit_8_Summary.pdf"
         width="100%" height="800"

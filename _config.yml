@@ -1,8 +1,10 @@
 title: "Machine Learning e-Portfolio"
 description: "Evidence and reflections across Units 1–12"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: "https://andreeannicoara.github.io"
 baseurl: "/e-portfolio-machine-learning"
+plugins:
+  - jekyll-remote-theme
 
 # Navigation and UI
 search_enabled: true

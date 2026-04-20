@@ -1,0 +1,289 @@
+{"0": {
+    "doc": "Home",
+    "title": "Andreea Nicoleta Nicoara",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/#andreea-nicoleta-nicoara",
+    
+    "relUrl": "/#andreea-nicoleta-nicoara"
+  },"1": {
+    "doc": "Home",
+    "title": "Machine Learning e-Portfolio",
+    "content": "This site collates evidence of work completed across Units 1 to 12, including unit summaries, seminar notes, completed activities, and supporting artefacts. ",
+    "url": "/e-portfolio-machine-learning/#machine-learning-e-portfolio",
+    
+    "relUrl": "/#machine-learning-e-portfolio"
+  },"2": {
+    "doc": "Home",
+    "title": "How to use this site",
+    "content": ". | Use the left sidebar to open individual Units and navigate to each Unit page. | Each Unit page contains a brief summary and links to artefacts, with PDF previews where relevant. | . ",
+    "url": "/e-portfolio-machine-learning/#how-to-use-this-site",
+    
+    "relUrl": "/#how-to-use-this-site"
+  },"3": {
+    "doc": "Home",
+    "title": "Structure",
+    "content": ". | Units 1 to 6: Core machine learning concepts and early practical activities | Units 7 to 10: Neural networks and deep learning applications | Units 11 to 12: Model evaluation and future facing context, including Industry 4.0 themes | . ",
+    "url": "/e-portfolio-machine-learning/#structure",
+    
+    "relUrl": "/#structure"
+  },"4": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/",
+    
+    "relUrl": "/"
+  },"5": {
+    "doc": "Unit 1",
+    "title": "Unit 1",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-01/",
+    
+    "relUrl": "/units/unit-01/"
+  },"6": {
+    "doc": "Unit 1",
+    "title": "Reflection",
+    "content": "What? . Unit 1 introduced the foundations of machine learning and clarified the structure of the module, including the later shift into deep learning and the main assessment components. It also covered core concepts such as the difference between software engineering and machine learning, the role of big data, and the main categories of machine learning. So what? . This unit gave me a clearer starting point for the rest of the module. I understood that machine learning is not only about producing predictions, but also about training, testing, generalization, and the quality of the underlying data. I also found it useful that the content linked machine learning to wider industrial and social contexts, because this made the subject feel practical rather than purely theoretical. Now what? . Going forward, I want to build on this foundation by keeping a consistent weekly workflow through notes and reflections. Unit 1 showed me that structured engagement will help me understand later technical content more effectively and produce stronger evidence for my e-portfolio. ",
+    "url": "/e-portfolio-machine-learning/units/unit-01/#reflection",
+    
+    "relUrl": "/units/unit-01/#reflection"
+  },"7": {
+    "doc": "Unit 1",
+    "title": "Artefacts",
+    "content": "Summary . Seminar Notes . Lecturecast . ",
+    "url": "/e-portfolio-machine-learning/units/unit-01/#artefacts",
+    
+    "relUrl": "/units/unit-01/#artefacts"
+  },"8": {
+    "doc": "Unit 2",
+    "title": "Unit 2",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-02/",
+    
+    "relUrl": "/units/unit-02/"
+  },"9": {
+    "doc": "Unit 2",
+    "title": "Reflection",
+    "content": "What? . Unit 2 focused on exploratory data analysis and preprocessing. Through the Auto-mpg exercise, I examined missing values, skewness, kurtosis, correlations, and scatter plots, and documented how categorical values were encoded. The seminar also reinforced that EDA is a necessary stage before modelling, not an optional extra. So what? . This unit helped me understand that reliable modelling depends on understanding the dataset first. In the Auto-mpg data, I found that horsepower had missing values coded as “?”, that several variables were non-normal, and that mpg had clear negative relationships with weight, horsepower, and displacement. This showed me how EDA can reveal issues that would affect model choice, preprocessing, and interpretation if ignored. Now what? . Going forward, I want to treat EDA as a standard first step in every machine learning task. I also want to become more systematic in documenting assumptions, handling missingness, and distinguishing true numeric variables from encoded categories before moving into modelling. ",
+    "url": "/e-portfolio-machine-learning/units/unit-02/#reflection",
+    
+    "relUrl": "/units/unit-02/#reflection"
+  },"10": {
+    "doc": "Unit 2",
+    "title": "Artefacts",
+    "content": "Summary . Seminar Notes . Exercise . Exercise Findings and Reflections . ",
+    "url": "/e-portfolio-machine-learning/units/unit-02/#artefacts",
+    
+    "relUrl": "/units/unit-02/#artefacts"
+  },"11": {
+    "doc": "Unit 3",
+    "title": "Unit 3",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-03/",
+    
+    "relUrl": "/units/unit-03/"
+  },"12": {
+    "doc": "Unit 3",
+    "title": "Reflection",
+    "content": "What? . Unit 3 focused on correlation and regression, moving from describing relationships between variables to modelling them for prediction. I worked through notebooks on covariance, Pearson correlation, simple linear regression, multiple linear regression, and polynomial regression. So what? . This unit helped me understand that correlation is useful for identifying patterns, but it does not establish causation and only captures certain types of relationships. The practical exercises made this clearer. Increasing noise reduced Pearson’s r from 0.888 to 0.446, while adding a single outlier changed a negative correlation into a positive one and reversed the regression line. This showed me how sensitive correlation and regression can be to data quality, outliers, and modelling assumptions. Now what? . Going forward, I want to be more careful about checking assumptions before interpreting regression outputs. I also want to justify model choice more critically, especially when relationships may be non linear or distorted by outliers, rather than treating fitted models as automatically reliable. ",
+    "url": "/e-portfolio-machine-learning/units/unit-03/#reflection",
+    
+    "relUrl": "/units/unit-03/#reflection"
+  },"13": {
+    "doc": "Unit 3",
+    "title": "Artefacts",
+    "content": "Summary . Lecturecast . Exercises (read notes under each output) . ",
+    "url": "/e-portfolio-machine-learning/units/unit-03/#artefacts",
+    
+    "relUrl": "/units/unit-03/#artefacts"
+  },"14": {
+    "doc": "Unit 4",
+    "title": "Unit 4",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-04/",
+    
+    "relUrl": "/units/unit-04/"
+  },"15": {
+    "doc": "Unit 4",
+    "title": "Reflection",
+    "content": "What? . Unit 4 focused on applying linear regression in scikit-learn through a practical modelling workflow. I worked on preprocessing, fitting, and evaluating regression models, and completed the seminar exercise using global population and GDP datasets to test correlation and regression between mean population and mean GDP per capita. So what? . This unit showed me that running a model is not enough on its own. In the seminar task, the correlation between mean population and mean GDP per capita was very weak, r = -0.0995, and the regression model had almost no explanatory power, with R² = 0.0028. That made it clear that a variable can be easy to model in code but still be a poor predictor in practice. It also reinforced that regression outputs must be interpreted carefully and not treated as evidence of causality. Now what? . Going forward, I want to focus more on variable choice, evaluation metrics, and interpretation boundaries before claiming that a model is useful. Unit 4 helped me see that a sound machine learning workflow depends as much on critical judgement as on technical implementation. ",
+    "url": "/e-portfolio-machine-learning/units/unit-04/#reflection",
+    
+    "relUrl": "/units/unit-04/#reflection"
+  },"16": {
+    "doc": "Unit 4",
+    "title": "Artefacts",
+    "content": "Summary . Seminar Notes . Seminar Tasks . ",
+    "url": "/e-portfolio-machine-learning/units/unit-04/#artefacts",
+    
+    "relUrl": "/units/unit-04/#artefacts"
+  },"17": {
+    "doc": "Unit 5",
+    "title": "Unit 5",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-05/",
+    
+    "relUrl": "/units/unit-05/"
+  },"18": {
+    "doc": "Unit 5",
+    "title": "Reflection",
+    "content": "What? . Unit 5 focused on clustering as an unsupervised learning method for grouping similar data points. The unit covered segmentation, similarity and distance measures, K means clustering, and ways to evaluate clusters such as SSE, the elbow method, and silhouette scores. I also completed the wiki task on clustering animations and the Jaccard coefficient exercise. So what? . This unit showed me that clustering can be useful for exploratory segmentation, but its results depend heavily on modelling choices. The animation task made it clear that K means is sensitive to centroid initialization and can impose clusters even when the data has weak natural structure. The Jaccard exercise also helped me understand that similarity depends on how the data is encoded and which measure is appropriate for the data type. Now what? . Going forward, I want to be more critical when interpreting clustering outputs, especially in noisy or weakly structured data. Unit 5 showed me that choosing the similarity measure, the number of clusters, and the evaluation method can change the result substantially, so these decisions need to be justified clearly. ",
+    "url": "/e-portfolio-machine-learning/units/unit-05/#reflection",
+    
+    "relUrl": "/units/unit-05/#reflection"
+  },"19": {
+    "doc": "Unit 5",
+    "title": "Artefacts",
+    "content": "Summary . Lecturecast . Wiki Task . Jaccard Coefficient Calculations . ",
+    "url": "/e-portfolio-machine-learning/units/unit-05/#artefacts",
+    
+    "relUrl": "/units/unit-05/#artefacts"
+  },"20": {
+    "doc": "Unit 6",
+    "title": "Unit 6",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-06/",
+    
+    "relUrl": "/units/unit-06/"
+  },"21": {
+    "doc": "Unit 6",
+    "title": "Reflection",
+    "content": "What? . Unit 6 focused on implementing K means clustering in Python with scikit learn. The unit moved from theory into practice by covering preprocessing, feature selection, scaling, K selection, and evaluation, and I applied this workflow across the Iris, Wine, and WeatherAUS datasets. So what? . This unit showed me that clustering quality depends heavily on the decisions made before fitting the model. In the seminar tasks, K means aligned only partly with the Iris classes, performed very strongly on the Wine data, and produced much weaker separation on WeatherAUS, where silhouette values were low. That contrast made it clear that the same algorithm can perform very differently depending on feature space, overlap between groups, and preprocessing quality. Now what? . Going forward, I want to justify preprocessing, feature choice, and K selection more explicitly whenever I use clustering. Unit 6 reinforced that cluster labels are exploratory outputs rather than ground truth, so I need to evaluate them carefully and explain their limitations instead of treating them as definitive categories. ",
+    "url": "/e-portfolio-machine-learning/units/unit-06/#reflection",
+    
+    "relUrl": "/units/unit-06/#reflection"
+  },"22": {
+    "doc": "Unit 6",
+    "title": "Artefacts",
+    "content": "Summary . Seminar Notes . K-mean Clustering Exercise . ",
+    "url": "/e-portfolio-machine-learning/units/unit-06/#artefacts",
+    
+    "relUrl": "/units/unit-06/#artefacts"
+  },"23": {
+    "doc": "Unit 7",
+    "title": "Unit 7",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-07/",
+    
+    "relUrl": "/units/unit-07/"
+  },"24": {
+    "doc": "Unit 7",
+    "title": "Reflection",
+    "content": "What? . Unit 7 introduced artificial neural networks and marked the move from classical machine learning into neural networks. It covered the biological inspiration behind ANNs, the perceptron as a weighted threshold classifier, weight updates through error reduction, the AND example, and the limitation of single layer models on XOR, which led into multi layer perceptrons and sigmoid activation. So what? . This unit helped me understand that a perceptron is useful for simple linear problems, but not for non linear ones. The AND activity showed how repeated weight updates can reach correct classification, while the XOR example made it clear why hidden layers and non linear activation functions are necessary. Running the exercises made the theory more concrete, especially when changing weights and inputs, comparing learning rates, and fixing the multi layer notebook so the error could decrease properly during training. Now what? . Going forward, I want to be more confident in explaining what neural networks are doing internally, not just using them as black box models. Unit 7 gave me a stronger foundation for later deep learning topics by showing why architecture, activation, and implementation details matter. ",
+    "url": "/e-portfolio-machine-learning/units/unit-07/#reflection",
+    
+    "relUrl": "/units/unit-07/#reflection"
+  },"25": {
+    "doc": "Unit 7",
+    "title": "Artefacts",
+    "content": "Summary . Lecturecast . Exercises . Simple Perceptron . Perceptron AND Operator . Multi-layer Perceptron . Exercises Notes . ",
+    "url": "/e-portfolio-machine-learning/units/unit-07/#artefacts",
+    
+    "relUrl": "/units/unit-07/#artefacts"
+  },"26": {
+    "doc": "Unit 8",
+    "title": "Unit 8",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-08/",
+    
+    "relUrl": "/units/unit-08/"
+  },"27": {
+    "doc": "Unit 8",
+    "title": "Reflection",
+    "content": "What? . Unit 8 focused on how artificial neural networks learn through backpropagation, gradient descent, and iterative weight updates. The unit moved beyond neural network structure and examined how error is calculated, how gradients guide optimization, and how learning rate and epochs affect convergence. I also completed the gradient descent exercise and reviewed the seminar discussion on explainability in ANN applications. So what? . This unit helped me understand that neural network training is a controlled optimization process rather than trial and error. The gradient descent exercise made this especially clear. A learning rate of 0.08 converged quickly, 0.01 was much slower, and 0.5 caused divergence. That showed me how sensitive training is to hyperparameter choice. The seminar also reinforced that strong predictive performance is not enough on its own if a model cannot be explained or defended in regulated settings. Now what? . Going forward, I want to pay more attention to optimization settings, convergence behavior, and model transparency when working with neural networks, rather than focusing only on final accuracy. ",
+    "url": "/e-portfolio-machine-learning/units/unit-08/#reflection",
+    
+    "relUrl": "/units/unit-08/#reflection"
+  },"28": {
+    "doc": "Unit 8",
+    "title": "Artefacts",
+    "content": "Summary . Lecturecast . Seminar Notes . Gradient Descent Cost Function Exercise . Exercise Notes . ",
+    "url": "/e-portfolio-machine-learning/units/unit-08/#artefacts",
+    
+    "relUrl": "/units/unit-08/#artefacts"
+  },"29": {
+    "doc": "Unit 9",
+    "title": "Unit 9",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-09/",
+    
+    "relUrl": "/units/unit-09/"
+  },"30": {
+    "doc": "Unit 9",
+    "title": "Reflection",
+    "content": "What? . Unit 9 introduced Convolutional Neural Networks as a core deep learning approach for computer vision. The unit focused on convolution, filters, feature maps, pooling, and how learned image features are turned into final class predictions. I also completed the CNN activity by testing different input images in the provided notebook and comparing predicted labels with the true labels. So what? . This unit helped me understand that CNNs do not treat images as just large tables of pixels. Instead, they learn patterns such as edges, textures, and shapes across layers, which makes them more suitable for image classification tasks. The practical activity made this clearer because changing the input image and checking the predictions showed how the trained model behaved on individual cases. It also reinforced that accuracy alone is not enough, especially when CNNs are used in sensitive contexts such as facial recognition and surveillance. Now what? . Going forward, I want to pay more attention to how deep learning models make predictions, not just whether they are correct. Unit 9 showed me that understanding feature learning, model behavior, and ethical limits is important for using CNNs responsibly. ",
+    "url": "/e-portfolio-machine-learning/units/unit-09/#reflection",
+    
+    "relUrl": "/units/unit-09/#reflection"
+  },"31": {
+    "doc": "Unit 9",
+    "title": "Artefacts",
+    "content": "Summary . Activity . Activity Notes . ",
+    "url": "/e-portfolio-machine-learning/units/unit-09/#artefacts",
+    
+    "relUrl": "/units/unit-09/#artefacts"
+  },"32": {
+    "doc": "Unit 10",
+    "title": "Unit 10",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-10/",
+    
+    "relUrl": "/units/unit-10/"
+  },"33": {
+    "doc": "Unit 10",
+    "title": "Reflection",
+    "content": "What? . Unit 10 introduced Natural Language Processing as a major machine learning area and focused on how deep learning, especially Transformer-based models, is used for language tasks. The unit also covered evaluation and deployment issues, while the seminar and activity continued the deep learning strand through a CNN tutorial and CNN Explainer exercise linked to the upcoming CIFAR-10 assignment. So what? . This unit helped me see that deep learning is not only about architecture choice, but also about evaluation, monitoring, and understanding model limits. The CNN Explainer activity made that practical. A sports car image was misclassified as lifeboat, and an out-of-distribution landscape image was confidently labelled as school bus. That showed me that softmax confidence does not guarantee correctness, especially when the model must force an unfamiliar input into a fixed label set. Now what? . Going forward, I want to be more critical when interpreting deep learning outputs, especially where confidence scores look persuasive. Unit 10 reinforced that I need to evaluate models across training, validation, and test settings, and to discuss trade-offs and limitations rather than focusing only on predictions. ",
+    "url": "/e-portfolio-machine-learning/units/unit-10/#reflection",
+    
+    "relUrl": "/units/unit-10/#reflection"
+  },"34": {
+    "doc": "Unit 10",
+    "title": "Artefacts",
+    "content": "Summary . Seminar Notes . Activity Notes . ",
+    "url": "/e-portfolio-machine-learning/units/unit-10/#artefacts",
+    
+    "relUrl": "/units/unit-10/#artefacts"
+  },"35": {
+    "doc": "Unit 11",
+    "title": "Unit 11",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-11/",
+    
+    "relUrl": "/units/unit-11/"
+  },"36": {
+    "doc": "Unit 11",
+    "title": "Reflection",
+    "content": "What? . Unit 11 focused on model selection and evaluation, with emphasis on bias and variance, resampling, cross validation, ROC and AUC, and the idea that the best model depends on context rather than one metric alone. In the activity, I tested how changing LogisticRegression regularization strength affected AUC on the Iris and breast cancer datasets. So what? . This unit showed me that strong model performance cannot be judged from a single run or a single score. In the activity, reducing C to 0.01 lowered AUC on both datasets, while weaker regularization kept performance high. That made the effect of hyperparameter choice much more concrete and reinforced that evaluation must be controlled and comparative. It also helped me see that model quality involves trade offs between fit, generalization, and the cost of different types of error. Now what? . Going forward, I want to be more systematic in how I compare models, choose metrics, and justify threshold or parameter decisions. Unit 11 reinforced that reliable machine learning depends as much on evaluation design as on the algorithm itself. ",
+    "url": "/e-portfolio-machine-learning/units/unit-11/#reflection",
+    
+    "relUrl": "/units/unit-11/#reflection"
+  },"37": {
+    "doc": "Unit 11",
+    "title": "Artefacts",
+    "content": "Summary . Activity - Model Performance Measurement . Activity Notes . ",
+    "url": "/e-portfolio-machine-learning/units/unit-11/#artefacts",
+    
+    "relUrl": "/units/unit-11/#artefacts"
+  },"38": {
+    "doc": "Unit 12",
+    "title": "Unit 12",
+    "content": " ",
+    "url": "/e-portfolio-machine-learning/units/unit-12/",
+    
+    "relUrl": "/units/unit-12/"
+  },"39": {
+    "doc": "Unit 12",
+    "title": "Reflection",
+    "content": "What? . Unit 12 connected machine learning to Industry 4.0 and focused on how AI, automation, and data-driven systems are changing real industrial environments. The unit covered topics such as deployment in production settings, digital twins, self-supervised learning, edge AI, Neural Architecture Search, and the wider social and sustainability implications of these developments. So what? . This unit was important because it placed machine learning in a broader real-world context. It showed that successful ML is not only about building accurate models, but also about reliability, maintenance, scalability, and responsible deployment. I also found the discussion of digital twins and edge AI especially useful because they demonstrated how machine learning can support monitoring and decision-making in dynamic environments rather than remaining only an academic exercise. Now what? . Going forward, I want to think more critically about how machine learning systems operate after deployment, including their practical, ethical, and organizational impact. Unit 12 reinforced that future ML work should be judged not only by technical performance, but also by how well it supports sustainable and human-centred systems. ",
+    "url": "/e-portfolio-machine-learning/units/unit-12/#reflection",
+    
+    "relUrl": "/units/unit-12/#reflection"
+  },"40": {
+    "doc": "Unit 12",
+    "title": "Artefacts",
+    "content": "Summary . ",
+    "url": "/e-portfolio-machine-learning/units/unit-12/#artefacts",
+    
+    "relUrl": "/units/unit-12/#artefacts"
+  }
+}

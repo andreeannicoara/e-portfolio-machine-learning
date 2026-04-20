@@ -1,0 +1,17 @@
+/* Remove extra top space in the sidebar header area */
+.side-bar .site-header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* Tighten the site title block */
+.side-bar .site-title {
+  margin-top: 0;
+  padding-top: 0;
+  line-height: 1.15;
+}
+
+/* If there's still a big gap before the nav list */
+.side-bar .nav-list {
+  margin-top: 0.25rem;
+}

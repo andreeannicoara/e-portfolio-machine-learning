@@ -1,0 +1,26 @@
+title: "Machine Learning e-Portfolio"
+description: "Evidence and reflections across Units 1–12"
+theme: just-the-docs
+url: "https://andreeannicoara.github.io"
+baseurl: "/e-portfolio-machine-learning"
+
+# Navigation and UI
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Makes the sidebar show nested pages nicely
+collections:
+  units:
+    output: true
+    permalink: /:collection/:path/
+
+just_the_docs:
+  aux_css:
+    - /assets/css/custom.css
+  collections:
+    units:
+      name: Units    
+      nav_fold: false      
+      nav_exclude: false  
